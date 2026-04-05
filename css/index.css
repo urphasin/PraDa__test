@@ -1,4 +1,4 @@
-@import url("normalize.css");
+/* @import url("normalize.css"); */
 /* 
                                   _ _                        
  _ __   ___  _ __ _ __ ___   __ _| (_)_______    ___ ___ ___ 
@@ -112,7 +112,7 @@ section {
 */
 
 
-@media screen and (orientation: portrait) {
+@media (min-width: 600px) {
     body {
         background-color: coral;
         color: #eefffc;
