@@ -58,6 +58,6 @@ body {
 
 hr {
   border: none;
-  height: 4px;
-  background-color: black;
+  height: 16px;
+  background-color: blue;
 }
