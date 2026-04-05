@@ -1,5 +1,5 @@
-alert("Inner Width: " + window.innerWidth + "px;");
-// alert("Inner Height: " + window.innerHeight + "px;");
+// alert("Inner Width: " + window.innerWidth + "px;");
+alert("Inner Height: " + window.innerHeight + "px;");
 
 // 1. Normal usage (most common)
 const sum = [1, 2, 3].reduce((a, b) => a + b, 0);
