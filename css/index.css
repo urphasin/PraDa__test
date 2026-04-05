@@ -54,6 +54,7 @@
 body {
     /* background-color: red; */
     font-size: 100%;
+    font-family: var(--body-text);
 }
 
 
