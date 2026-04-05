@@ -49,6 +49,16 @@
 	 --heading-text: "Helvetica Neue", Helvetica, sans-serif;
 	 --body-text: "Helvetica Neue", Helvetica, sans-serif;
 	 --body-text-serif: Georgia, Times, serif;
+
+
+     /* 
+        🔥 Best Google Fonts alternatives (very close look)
+        -----------------------------------------------------
+            Inter (modern, super clean — best overall)
+            Roboto (Google’s default, very neutral)
+            Open Sans (friendly + readable)
+            Arimo (metrically similar to Helvetica)
+     */
 }
 /* 
             __             _       
@@ -63,7 +73,7 @@
 body {
     /* background-color: red; */
     font-size: 100%;
-    font-family: "Zen Dots";
+    font-family: Hel;
 }
 
 /* HEADING STYLES */
