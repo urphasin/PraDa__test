@@ -1,4 +1,4 @@
-// alert("Inner Width: " + window.innerWidth + "px;");
+alert("Inner Width: " + window.innerWidth + "px;");
 // alert("Inner Height: " + window.innerHeight + "px;");
 
 // 1. Normal usage (most common)
