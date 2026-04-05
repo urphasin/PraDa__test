@@ -129,6 +129,28 @@ section {
     margin-top: var(--space-md);
 }
 
+/* 
+ _            _       
+| |_ _____  _| |_ ___ 
+| __/ _ \ \/ / __/ __|
+| ||  __/>  <| |_\__ \
+ \__\___/_/\_\\__|___/
+*/
+
+@media screen and (orientation: landscape) {
+    body {
+        background-color: skyblue;
+        color: #FFA500;
+    }
+}
+
+@media screen and (orientation: portrait) {
+    body {
+        background-color: coral;
+        color: #909090;
+    }
+}
+
 hr {
   border: none;
   height: 16px;
