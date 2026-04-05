@@ -137,12 +137,6 @@ section {
  \__\___/_/\_\\__|___/
 */
 
-@media screen and (orientation: landscape) {
-    body {
-        background-color: skyblue;
-        color: #FFA500;
-    }
-}
 
 @media screen and (orientation: portrait) {
     body {
