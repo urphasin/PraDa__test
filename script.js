@@ -2,7 +2,6 @@ if (window.innerHeight > 840) {
     alert("Inner Width: " + window.innerWidth + "px;" + "\n" + 
         "Inner Height: " + window.innerHeight + "px;"
     );
-
 }
 if (window.innerHeight <= 824) {
     alert("Inner Height: " + window.innerHeight + "px;");
