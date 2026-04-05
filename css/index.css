@@ -57,5 +57,7 @@ body {
 
 
 hr {
-    color: purple;
+  border: none;
+  height: 4px;
+  background-color: black;
 }
