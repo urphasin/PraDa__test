@@ -8,4 +8,4 @@ const sum = [1, 2, 3].reduce((a, b) => a + b, 0);
 const sum2 = Array.prototype.reduce.call([1, 2, 3], (a, b) => a + b, 0);
 
 const fontFamily = getComputedStyle(document.body).fontFamily;
-// alert(fontFamily);
+alert(fontFamily);
