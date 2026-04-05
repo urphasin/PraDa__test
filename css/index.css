@@ -13,18 +13,9 @@
 
 /* COLOR PALETTE */
 :root {
-    --red: #DD4949;
-    --orange: #FFA500;
-    --yellow: #ffef86;
-    --green: #669966;
-    --cyan: #16E4E4;
-    --purple: #A137A1;
-    --gray-50: #f3f3f5;
-    --gray-100: #d1d1d2;
-    --gray-200: #bcbcbe;
-    --gray-400: #909090;
-    --gray-700: #676767;
-    --gray-900: #232323;
+    --her-hair: rgb(171, 75, 11);
+    --her-dress: rgb(243, 184, 19);
+    --the-writing: rgb(23, 10, 10);
 }
 /* 
                      _            
