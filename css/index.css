@@ -46,7 +46,7 @@
 
 /* TYPOGRAPHY FONTS */
 :root {
-	 --heading-text: "Metamorphous", Helvetica, sans-serif;
+	 --heading-text: "Inter", Helvetica, sans-serif;
 	 --body-text: "Open Sans", Helvetica, sans-serif;
 	 --body-text-serif: Georgia, Times, serif;
 
@@ -129,6 +129,7 @@ section {
 | ||  __/>  <| |_\__ \
  \__\___/_/\_\\__|___/
 */
+
 
 
 @media (min-width: 602px) and (max-width: 622px) {
