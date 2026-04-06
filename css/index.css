@@ -93,6 +93,11 @@ h4 { font-size: 1.25rem; }
 h5 { font-size: 1rem; }
 h6 { font-size: 0.75rem; }
 
+h1 {
+    margin-block: var(--space-lg);
+    text-align: center;
+}
+
 * + h2,
 * + h3,
 * + h4 {
