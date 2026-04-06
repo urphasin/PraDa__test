@@ -94,7 +94,8 @@ h5 { font-size: 1rem; }
 h6 { font-size: 0.75rem; }
 
 h1 {
-    margin-block: var(--space-lg);
+    margin-block-start: calc(var(--space-lg) * 2);
+    margin-block-end: var(--space-lg);
     text-align: center;
 }
 
