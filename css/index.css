@@ -198,7 +198,7 @@ hr {
 }
 .grid-container {
     display: grid;    
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
 }
 @container (max-width: 821px) {
     .grid-container {
