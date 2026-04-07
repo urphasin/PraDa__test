@@ -1,0 +1,43 @@
+<picture>
+  <!-- Modern format for large screens -->
+  <source 
+    type="image/avif"
+    media="(min-width: 1200px)"
+    srcset="
+      hero-large-1200.avif 1200w,
+      hero-large-2000.avif 2000w
+    "
+    sizes="1200px"
+  >
+
+  <!-- Tablet layout (different crop) -->
+  <source 
+    media="(min-width: 700px)"
+    srcset="
+      hero-tablet-700.jpg 700w,
+      hero-tablet-1000.jpg 1000w
+    "
+    sizes="80vw"
+  >
+
+  <!-- Mobile layout (completely different crop) -->
+  <source 
+    media="(max-width: 699px)"
+    srcset="
+      hero-mobile-400.jpg 400w,
+      hero-mobile-800.jpg 800w
+    "
+    sizes="100vw"
+  >
+
+  <!-- Fallback -->
+  <img 
+    src="hero-mobile-400.jpg"
+    srcset="
+      hero-mobile-400.jpg 400w,
+      hero-mobile-800.jpg 800w
+    "
+    sizes="100vw"
+    alt="Hero image"
+  >
+</picture>
